@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Modules/MAC111 Aerospace Design/Performance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Performance"
+            }
+          },
+          {
+            "id": "de2fb3b388fe804d",
+            "type": "leaf",
+            "state": {
+              "type": "handwriting-editor",
+              "state": {
+                "id": "HTMD_20261030154102_PQFG",
+                "svg": "_handwriting/HTMD_20261030154102_PQFG.svg",
+                "sourcePath": "01 Modules/MAC111 Aerospace Design/Performance.md"
+              },
+              "icon": "pencil",
+              "title": "Handwriting editor"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "741d83234751b38b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d74282ecdfa107f4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "475f0415f1793ff1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "148e951dd8333b23",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e3a4a18d17ee2324",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "b7f7de79b6db4bfb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0de7e81b8bbd85e1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "96252a605e00a0b2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8048facc68e945ac",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "74251512742106a2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": true,
+            "showSearch": true,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "7e850404a604e665",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "30f1261e0d5b7d87",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
+      },
+      {
+        "id": "30755eb5a6058d41",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7819abecd0a5a764",
+        "type": "leaf",
+        "state": {
+          "type": "planner-timeline",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Timeline"
+        }
+      },
+      {
+        "id": "17e271c396620429",
+        "type": "leaf",
+        "state": {
+          "type": "planner-time-tracker",
+          "state": {},
+          "icon": "timer",
+          "title": "Time Tracker"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "handwriting-to-markdown:Insert handwriting": false,
+      "gemini-scribe:Gemini Scribe: Agent mode": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "homepage:Open homepage": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "de2fb3b388fe804d",
+  "lastOpenFiles": [
+    "04 Resources/Home.md",
+    "01 Modules/MPS123 Maths/Differentiation.md",
+    "_handwriting/HTMD_20261102101057_47IN.svg",
+    "01 Modules/MAC111 Aerospace Design/Aircraft regulation, certification & airworthiness.md",
+    "_handwriting/HTMD_20261102090559_JARE.svg",
+    "01 Modules/MAC111 Aerospace Design/Air System Lifecycle.md",
+    "01 Modules/MAC108 Statics & Thermofluids/SFEE for Thermal systems.md",
+    "01 Modules/CMB128 Materials/Materials.md",
+    "01 Modules/ELE123 Systems & Control/Systems modelling using ODE.md",
+    "01 Modules/ELE123 Systems & Control/Introduction.md",
+    "01 Modules/ELE123 Systems & Control/Differential equations.md",
+    "01 Modules/ELE123 Systems & Control/Systems & Control.md",
+    "01 Modules/ELE123 Systems & Control",
+    "05 Templates/Daily Template.md",
+    "01 Modules/MPS123 Maths/Maths.md",
+    "01 Modules/MAC108 Statics & Thermofluids/Statics & Thermofluids.md",
+    "00 Inbox/Task Inbox.md",
+    "01 Modules/MAC111 Aerospace Design/Aerospace Design.md",
+    "_handwriting/HTMD_20261030162905_MQXU.svg",
+    "01 Modules/MAC108 Statics & Thermofluids/1st Law of thermodynamics (closed system).md",
+    "03 Revision/Thermofluids/Gas quizzes.md",
+    "01 Modules/MAC111 Aerospace Design/Performance.md",
+    "_handwriting/HTMD_20261030154102_PQFG.svg",
+    "_handwriting/HTMD_20261030150545_V1O7.svg",
+    "_handwriting/HTMD_20261030150544_99X4.svg",
+    "_handwriting/HTMD_20261030141403_GXAP.svg",
+    "_handwriting/HTMD_20261030141402_81S0.svg",
+    "01 Modules/MAC111 Aerospace Design/Compressibility.md",
+    "03 Revision/Aerospace Design/Challenges.md",
+    "_handwriting/HTMD_20261029150705_PGCZ.svg",
+    "01 Modules/MAC108 Statics & Thermofluids/Aerodynamics Control of Aircraft.md",
+    "_handwriting/HTMD_20261029101258_TKM3.svg",
+    "01 Modules/CMB128 Materials/Ductility.md",
+    "01 Modules/ELE123 systems & control/Differential equations.md",
+    "01 Modules/ELE123 systems & control/Introduction.md",
+    "01 Modules/CMB128 Materials/Untitled.md",
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Scheduled-Tasks",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe",
+    "01 Modules/MPS123 Maths/Test.pdf",
+    "Untitled.canvas",
+    "01 Modules/Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

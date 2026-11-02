@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb9ee7caf1ba13c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb3d39f6005a8faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Resources/Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52f3e5ee8208464b",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f80bf0ba1ac593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be14dce457c837fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e905b5f18c83a90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"name\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce55ab49da1300fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c24fefee992ecbba",
+    "type": "split",
+    "children": [
+      {
+        "id": "af5207cc6d34b8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "641f89c168758b4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "cc2fbc8fbb225b5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "016caea1de8b459c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04d20ec3fbd0b2ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7626c0bfa8e2909d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 Resources/Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "81e43e38260b6d50",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "31cb59a71c8679c7",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "68a6416323a95eb5",
+            "type": "leaf",
+            "state": {
+              "type": "planner-time-tracker",
+              "state": {},
+              "icon": "timer",
+              "title": "Time Tracker"
+            }
+          },
+          {
+            "id": "6ddd5fb41d372c4c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.1666259765625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "gemini-scribe:Gemini Scribe: Agent mode": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "homepage:Open homepage": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "handwriting-to-markdown:Insert handwriting": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "be14dce457c837fa",
+  "lastOpenFiles": [
+    "_handwriting/HTMD_20261102101057_47IN.svg",
+    "_handwriting/HTMD_20261102090559_JARE.svg",
+    "01 Modules/MAC111 Aerospace Design/Aircraft regulation, certification & airworthiness.md",
+    "01 Modules/MAC111 Aerospace Design/~syncthing~Aircraft regulation, certification & airworthiness.md.tmp",
+    "_handwriting/~syncthing~HTMD_20261030154102_PQFG.svg.tmp",
+    "01 Modules/MPS123 Maths/~syncthing~Differentiation.md.tmp",
+    "_handwriting/~syncthing~HTMD_20261102101057_47IN.svg.tmp",
+    "_handwriting/~syncthing~HTMD_20261102090559_JARE.svg.tmp",
+    "01 Modules/ELE126 Electrical Fundamentals/Electrical Fundamentals.md",
+    "04 Resources/Home.md",
+    "01 Modules/ELE123 Systems & Control/Systems & Control.md",
+    "01 Modules/MAC108 Statics & Thermofluids/SFEE for Thermal systems.md",
+    "_handwriting/HTMD_20261030162905_MQXU.svg",
+    "_handwriting/HTMD_20261030141402_81S0.svg",
+    "01 Modules/MAC111 Aerospace Design/Performance.md",
+    "_handwriting/HTMD_20261030154102_PQFG.svg",
+    "_handwriting/~syncthing~HTMD_20261030162905_MQXU.svg.tmp",
+    "04 Resources/Home.sync-conflict-20261031-142944-ZL7ZFPH.md",
+    "01 Modules/MAC108 Statics & Thermofluids/~syncthing~SFEE for Thermal systems.md.tmp",
+    "01 Modules/MAC111 Aerospace Design/~syncthing~Performance.md.tmp",
+    "_handwriting/~syncthing~HTMD_20261030141402_81S0.svg.tmp",
+    "01 Modules/MPS123 Maths/Maths.md",
+    "01 Modules/MAC111 Aerospace Design/Aerospace Design.md",
+    "01 Modules/MAC108 Statics & Thermofluids/Statics & Thermofluids.md",
+    "01 Modules/CMB128 Materials/Materials.md",
+    "01 Modules/CMB128 Materials 1.md",
+    "05 Templates/Daily Template.md",
+    "01 Modules/CMB128 Materials.md",
+    "01 - Modules/Mathematics/Mathematics.md",
+    "01 - Modules/Mathematics",
+    "00 Inbox/Task Inbox.md",
+    "05 Templates/Lecture-Template.md",
+    "01 Modules/MAC111 Aerospace Design/Generation of lift.md",
+    "01 Modules/MAC111 Aerospace Design/Generation of lift II.md",
+    "03 Revision/Maths/Hw.md",
+    "2026/10/06.md",
+    "03 Revision/Test.sync-conflict-20261006-124555-ZL7ZFPH.md",
+    "01 Modules/MAC111 Aerospace Design/Introduction.md",
+    "01 Modules/MAC108 Statics & Thermofluids/01.md",
+    "01 Modules/ELE126 Electrical Fundamentals/Introduction.md",
+    "_handwriting/HTMD_20260929140607_8XL0.svg",
+    "_handwriting/HTMD_20260930105726_YC5I.svg",
+    "_handwriting/HTMD_20261005112539_9CY5.svg",
+    "_handwriting/HTMD_20261005155439_WLQ2.svg",
+    "_handwriting/_converted/2026-09-29_20-43-56.svg",
+    "_handwriting/HTMD_20261005111224_OT3W.svg",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

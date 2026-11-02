@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/275-WOB/vault.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
