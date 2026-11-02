@@ -9,6 +9,9 @@ tags:
 > [!abstract] Build a useful graph
 > Obsidian's **Graph view** and **Local graph** are built in. A graph only becomes useful when you connect related concepts using `[[wiki links]]`. Handwriting images are preserved, but their contents aren't automatically indexed as text.
 
+## 🗺️ Visual knowledge map
+Open [[04 Resources/University Knowledge Map.canvas|University Knowledge Map]] for an editable Canvas overview of all six modules, the dashboard, and revision. Add concept cards and connect them as you study.
+
 ## 🧭 Explore by module
 - [[01 Modules/CMB128 Materials/Materials|Materials]] · [[01 Modules/ELE123 Systems & Control/Systems & Control|Systems & Control]]
 - [[01 Modules/ELE126 Electrical Fundamentals/Electrical Fundamentals|Electrical Fundamentals]] · [[01 Modules/MAC108 Statics & Thermofluids/Statics & Thermofluids|Statics & Thermofluids]]
