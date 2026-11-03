@@ -1,187 +1,79 @@
-
-
 ---
+type: dashboard
+tags:
+  - dashboard
+---
+# 🏠 Study Dashboard
 
-## ![📊](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4ca/72.png) Overview
+> [!tip] Start here
+> **Capture:** [[00 Inbox/Task Inbox|Task Inbox]] · **Plan:** [[04 Resources/Weekly Review|Weekly Review]] · **Explore:** [[04 Resources/Knowledge Hub|Knowledge Hub]] · **Find:** use **Omnisearch** from the command palette.
+>
+> For a quick task, use **QuickAdd → Quick Task**. Add a due date like `📅 2026-11-06` to make it appear below.
 
-  
-
-### ![🚨](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f6a8/72.png) Overdue tasks
-
+## 🔴 Overdue
 ```tasks
-
 not done
-
 due before today
-
 sort by due
-
+limit 30
 ```
 
-  
-
-### ![📅](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4c5/72.png) Due today
-
+## 🟠 Due today
 ```tasks
-
 not done
-
 due on today
-
 sort by priority
-
+limit 30
 ```
 
-  
-
-### ![⏳](https://fonts.gstatic.com/s/e/notoemoji/17.0/23f3/72.png) Coming up — next 7 days
-
+## 🗓️ Next 7 days
 ```tasks
-
 not done
-
 due after today
-
 due before in 7 days
-
 sort by due
-
+limit 35
 ```
 
-  
+## 🎓 Modules
+|                                                                       |                                    |                                                                       |                                   |
+| --------------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------- | --------------------------------- |
+| 🧱 [[01 Modules/CMB128 Materials/Materials                            | CMB128 · Materials]]               | ⚙️ [[01 Modules/ELE123 Systems & Control/Systems & Control            | ELE123 · Systems & Control]]      |
+| ⚡ [[01 Modules/ELE126 Electrical Fundamentals/Electrical Fundamentals | ELE126 · Electrical Fundamentals]] | 🌡️ [[01 Modules/MAC108 Statics & Thermofluids/Statics & Thermofluids | MAC108 · Statics & Thermofluids]] |
+| ✈️ [[01 Modules/MAC111 Aerospace Design/Aerospace Design              | MAC111 · Aerospace Design]]        | 📐 [[01 Modules/MPS123 Maths/Maths                                    | MPS123 · Maths]]                  |
 
----
-
-  
-
-## ![📚](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4da/72.png) My Modules
-
-  
-
-- [[01 Modules/CMB128 Materials/Materials]]
-- [[01 Modules/ELE123 Systems & Control/Systems & Control]]
-- [[01 Modules/ELE126 Electrical Fundamentals/Electrical Fundamentals]]
-- [[01 Modules/MAC108 Statics & Thermofluids/Statics & Thermofluids]]
-- [[01 Modules/MAC111 Aerospace Design/Aerospace Design]]
-- [[01 Modules/MPS123 Maths/Maths]] 
-
-
-  
-
----
-
-  
-
-## ![📝](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4dd/72.png) Assignments
-
-  
-
-### Active assignments
-
-  
+## 📌 Assignments
+[[02 Assignments/Assignments|Assignment board]] · [[05 Templates/Assignment Template|Assignment template]]
 
 ```dataview
-
-TABLE module AS Module, due AS Deadline, status AS Status
-
-FROM "University/02 - Assignments"
-
-WHERE type = "assignment"
-
-AND status != "submitted"
-
+TABLE WITHOUT ID file.link AS Assignment, module AS Module, due AS Deadline, status AS Status
+FROM "02 Assignments"
+WHERE type = "assignment" AND status != "submitted" AND status != "completed"
 SORT due ASC
-
 ```
 
-  
-
----
-
-  
-
-## ![🎯](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f3af/72.png) Task Inbox
-
-  
-
-- [00 - Task Inbo]]
-
-  
-
-### Tasks without deadlines
-
-  
-
+## 🎯 Unscheduled tasks
 ```tasks
-
 not done
-
 no due date
-
+path does not include 05 Templates
+limit 25
 sort by path
-
 ```
 
-  
-
----
-
-  
-
-## ![📖](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4d6/72.png) Recently edited notes
-
-  
-
+## 🕒 Recently changed study notes
 ```dataview
-
-TABLE file.mtime AS "Last edited", module AS Module
-
-FROM "University/01 - Modules"
-
-WHERE type = "lecture"
-
+TABLE WITHOUT ID file.link AS Note, file.mtime AS "Edited"
+FROM "01 Modules" OR "03 Revision"
 SORT file.mtime DESC
-
-LIMIT 7
-
+LIMIT 12
 ```
 
-  
+## 🧠 Learn & connect
+- [[04 Resources/Knowledge Hub|Knowledge Hub]] — concepts, visual map, graph ideas and revision
+- [[03 Revision/Revision Hub|Revision Hub]] — practice, recall and exam prep
+- [[04 Resources/Weekly Review|Weekly Review]] — reset your week
+- [[05 Templates/Concept Template|Concept Template]] — build searchable notes alongside handwriting
 
----
-
-  
-
-## ![🧠](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f9e0/72.png) Knowledge Hub
-
-  
-
-- [[Concept Index]]
-
-- [[University Brain.canvas]]
-
-- [[Graph View]]
-
-  
-
----
-
-  
-
-## ![📆](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4c6/72.png) Daily Planning
-
-  
-
-- [[]]
-
-  
-
----
-
-  
-
-## ![📌](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4cc/72.png) Weekly Review
-
-  
-
-- [[Weekly Review]]
+## 📆 Daily planning
+Use **Open today's daily note** in the command palette or select a date in **Calendar**. For a time-blocked day, open **Day Planner**.

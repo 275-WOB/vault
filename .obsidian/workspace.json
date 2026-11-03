@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Resources/Home.md",
+                "file": "04 Resources/Knowledge Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Knowledge Hub"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Resources/Home.md",
+                "file": "04 Resources/Knowledge Hub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,11 +235,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "be14dce457c837fa",
+  "active": "cb3d39f6005a8faf",
   "lastOpenFiles": [
+    "04 Resources/Home.md",
+    "04 Resources/University Knowledge Map.canvas",
+    "04 Resources/Knowledge Hub.md",
+    "00 Inbox/Task Inbox.md",
+    "02 Assignments/Assignments.md",
+    "03 Revision/Revision Hub.md",
+    "04 Resources/Dashboard setup guide.md",
+    "05 Templates/Lecture-Template.md",
+    "05 Templates/Concept Template.md",
+    "05 Templates/Assignment Template.md",
+    "04 Resources/~syncthing~Home.md.tmp",
+    "05 Templates/Daily Template.md",
+    "04 Resources/Weekly Review.md",
     "_handwriting/HTMD_20261102101057_47IN.svg",
     "_handwriting/HTMD_20261102090559_JARE.svg",
     "01 Modules/MAC111 Aerospace Design/Aircraft regulation, certification & airworthiness.md",
@@ -249,7 +263,6 @@
     "_handwriting/~syncthing~HTMD_20261102101057_47IN.svg.tmp",
     "_handwriting/~syncthing~HTMD_20261102090559_JARE.svg.tmp",
     "01 Modules/ELE126 Electrical Fundamentals/Electrical Fundamentals.md",
-    "04 Resources/Home.md",
     "01 Modules/ELE123 Systems & Control/Systems & Control.md",
     "01 Modules/MAC108 Statics & Thermofluids/SFEE for Thermal systems.md",
     "_handwriting/HTMD_20261030162905_MQXU.svg",
@@ -266,26 +279,14 @@
     "01 Modules/MAC108 Statics & Thermofluids/Statics & Thermofluids.md",
     "01 Modules/CMB128 Materials/Materials.md",
     "01 Modules/CMB128 Materials 1.md",
-    "05 Templates/Daily Template.md",
     "01 Modules/CMB128 Materials.md",
     "01 - Modules/Mathematics/Mathematics.md",
-    "01 - Modules/Mathematics",
-    "00 Inbox/Task Inbox.md",
-    "05 Templates/Lecture-Template.md",
     "01 Modules/MAC111 Aerospace Design/Generation of lift.md",
-    "01 Modules/MAC111 Aerospace Design/Generation of lift II.md",
-    "03 Revision/Maths/Hw.md",
-    "2026/10/06.md",
-    "03 Revision/Test.sync-conflict-20261006-124555-ZL7ZFPH.md",
-    "01 Modules/MAC111 Aerospace Design/Introduction.md",
-    "01 Modules/MAC108 Statics & Thermofluids/01.md",
-    "01 Modules/ELE126 Electrical Fundamentals/Introduction.md",
     "_handwriting/HTMD_20260929140607_8XL0.svg",
     "_handwriting/HTMD_20260930105726_YC5I.svg",
     "_handwriting/HTMD_20261005112539_9CY5.svg",
     "_handwriting/HTMD_20261005155439_WLQ2.svg",
     "_handwriting/_converted/2026-09-29_20-43-56.svg",
-    "_handwriting/HTMD_20261005111224_OT3W.svg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

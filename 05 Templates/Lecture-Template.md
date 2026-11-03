@@ -4,14 +4,19 @@
 date: '"{{date:YYYY-MM-DD}}"'
 ta: Lecture
 ---
-## Lecture Summary
+# {{title}}
 
----
-##  Notes
+## Lecture summary
+Write 3–5 lines here so handwriting is searchable.
 
+## Notes
+<!-- Keep handwritten SVG embeds and PDFs here. -->
 
----
-## Tasks
+## Key concepts
+- [[]]
+
+## Practice / questions
 - [ ] 
 
-
+## Related
+- [[]]

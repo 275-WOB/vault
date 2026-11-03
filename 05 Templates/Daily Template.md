@@ -2,22 +2,29 @@
 "type:": daily
 "date:": '"{{date:YYYY-MM-DD}}"'
 ---
-# {{date:dddd, Do MMMM YYYY}}
+# {{# {{date:dddd, Do MMMM YYYY}}
 
+[[04 Resources/Home|🏠 Dashboard]] · [[00 Inbox/Task Inbox|Inbox]]
 
-## Top 3 Priorities
-- [ ] priority 1
-- [ ] priority 2
-- [ ] priority 3
+## Top 3 priorities
+- 
+- 
+- 
 
-## University Tasks
-- [ ] as
-- [ ] many
-- [ ] as
-- [ ] needed
+## Due today
+```tasks
+not done
+due on today
+sort by priority
+```
 
-## Personal Tasks
-- [ ] as
-- [ ] many
-- [ ] as
-- [ ] needed
+## Day planner
+Add scheduled lines such as `- [ ] 09:00 - 10:00 Review Maths` if you use Day Planner.
+
+## Lecture notes / learning
+- 
+
+## What did I learn?
+
+## Tomorrow
+-
