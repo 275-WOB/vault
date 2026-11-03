@@ -1,0 +1,164 @@
+{
+  "nodes": [
+    {
+      "id": "materials",
+      "type": "file",
+      "file": "01 Modules/CMB128 Materials/Materials.md",
+      "x": -850,
+      "y": -350,
+      "width": 310,
+      "height": 180
+    },
+    {
+      "id": "systems",
+      "type": "file",
+      "file": "01 Modules/ELE123 Systems & Control/Systems & Control.md",
+      "x": -430,
+      "y": -350,
+      "width": 310,
+      "height": 180
+    },
+    {
+      "id": "electrical",
+      "type": "file",
+      "file": "01 Modules/ELE126 Electrical Fundamentals/Electrical Fundamentals.md",
+      "x": -10,
+      "y": -350,
+      "width": 310,
+      "height": 180
+    },
+    {
+      "id": "thermo",
+      "type": "file",
+      "file": "01 Modules/MAC108 Statics & Thermofluids/Statics & Thermofluids.md",
+      "x": -850,
+      "y": 300,
+      "width": 310,
+      "height": 180
+    },
+    {
+      "id": "aero",
+      "type": "file",
+      "file": "01 Modules/MAC111 Aerospace Design/Aerospace Design.md",
+      "x": -430,
+      "y": 300,
+      "width": 310,
+      "height": 180
+    },
+    {
+      "id": "maths",
+      "type": "file",
+      "file": "01 Modules/MPS123 Maths/Maths.md",
+      "x": -10,
+      "y": 300,
+      "width": 310,
+      "height": 180
+    },
+    {
+      "id": "hub",
+      "type": "file",
+      "file": "04 Resources/Knowledge Hub.md",
+      "x": -430,
+      "y": -25,
+      "width": 310,
+      "height": 180
+    },
+    {
+      "id": "revision",
+      "type": "file",
+      "file": "03 Revision/Revision Hub.md",
+      "x": 470,
+      "y": 140,
+      "width": 310,
+      "height": 180
+    },
+    {
+      "id": "dashboard",
+      "type": "file",
+      "file": "04 Resources/Home.md",
+      "x": 470,
+      "y": -170,
+      "width": 310,
+      "height": 180
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-0",
+      "fromNode": "materials",
+      "toNode": "hub",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-1",
+      "fromNode": "systems",
+      "toNode": "hub",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-2",
+      "fromNode": "electrical",
+      "toNode": "hub",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-3",
+      "fromNode": "thermo",
+      "toNode": "hub",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-4",
+      "fromNode": "aero",
+      "toNode": "hub",
+      "fromSide": "top",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-5",
+      "fromNode": "maths",
+      "toNode": "hub",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-6",
+      "fromNode": "hub",
+      "toNode": "revision",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-7",
+      "fromNode": "hub",
+      "toNode": "dashboard",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-8",
+      "fromNode": "maths",
+      "toNode": "systems",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-9",
+      "fromNode": "maths",
+      "toNode": "electrical",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-10",
+      "fromNode": "aero",
+      "toNode": "thermo",
+      "fromSide": "top",
+      "toSide": "left"
+    }
+  ]
+}
