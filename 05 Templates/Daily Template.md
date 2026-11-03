@@ -1,6 +1,6 @@
 ---
-"type:": daily
-"date:": '"{{date:YYYY-MM-DD}}"'
+type: daily
+date: "{{date:YYYY-MM-DD}}"
 ---
 # {{# {{date:dddd, Do MMMM YYYY}}
 
@@ -27,4 +27,8 @@ Add scheduled lines such as `- [ ] 09:00 - 10:00 Review Maths` if you use Day Pl
 ## What did I learn?
 
 ## Tomorrow
+<<<<<<< HEAD
 -
+=======
+- 
+>>>>>>> 0dbbdfeb10f0942ebb657c46e77fbdd5255c820d

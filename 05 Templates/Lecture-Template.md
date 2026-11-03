@@ -1,8 +1,9 @@
 ---
-"type:": Lecture
-"module:":
-date: '"{{date:YYYY-MM-DD}}"'
-ta: Lecture
+type: lecture
+module:
+date: "{{date:YYYY-MM-DD}}"
+tags:
+  - lecture
 ---
 # {{title}}
 
@@ -19,4 +20,8 @@ Write 3–5 lines here so handwriting is searchable.
 - [ ] 
 
 ## Related
+<<<<<<< HEAD
 - [[]]
+=======
+- [[]]
+>>>>>>> 0dbbdfeb10f0942ebb657c46e77fbdd5255c820d

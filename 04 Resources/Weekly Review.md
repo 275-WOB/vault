@@ -38,4 +38,8 @@ LIMIT 10
 ### Which three things matter most next week?
 - [ ] 
 - [ ] 
+<<<<<<< HEAD
 - [ ]
+=======
+- [ ] 
+>>>>>>> 0dbbdfeb10f0942ebb657c46e77fbdd5255c820d

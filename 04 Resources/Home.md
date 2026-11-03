@@ -36,11 +36,19 @@ limit 35
 ```
 
 ## 🎓 Modules
+<<<<<<< HEAD
 |                                                                       |                                    |                                                                       |                                   |
 | --------------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------- | --------------------------------- |
 | 🧱 [[01 Modules/CMB128 Materials/Materials                            | CMB128 · Materials]]               | ⚙️ [[01 Modules/ELE123 Systems & Control/Systems & Control            | ELE123 · Systems & Control]]      |
 | ⚡ [[01 Modules/ELE126 Electrical Fundamentals/Electrical Fundamentals | ELE126 · Electrical Fundamentals]] | 🌡️ [[01 Modules/MAC108 Statics & Thermofluids/Statics & Thermofluids | MAC108 · Statics & Thermofluids]] |
 | ✈️ [[01 Modules/MAC111 Aerospace Design/Aerospace Design              | MAC111 · Aerospace Design]]        | 📐 [[01 Modules/MPS123 Maths/Maths                                    | MPS123 · Maths]]                  |
+=======
+| | |
+| --- | --- |
+| 🧱 [[01 Modules/CMB128 Materials/Materials|CMB128 · Materials]] | ⚙️ [[01 Modules/ELE123 Systems & Control/Systems & Control|ELE123 · Systems & Control]] |
+| ⚡ [[01 Modules/ELE126 Electrical Fundamentals/Electrical Fundamentals|ELE126 · Electrical Fundamentals]] | 🌡️ [[01 Modules/MAC108 Statics & Thermofluids/Statics & Thermofluids|MAC108 · Statics & Thermofluids]] |
+| ✈️ [[01 Modules/MAC111 Aerospace Design/Aerospace Design|MAC111 · Aerospace Design]] | 📐 [[01 Modules/MPS123 Maths/Maths|MPS123 · Maths]] |
+>>>>>>> 0dbbdfeb10f0942ebb657c46e77fbdd5255c820d
 
 ## 📌 Assignments
 [[02 Assignments/Assignments|Assignment board]] · [[05 Templates/Assignment Template|Assignment template]]
@@ -76,4 +84,8 @@ LIMIT 12
 - [[05 Templates/Concept Template|Concept Template]] — build searchable notes alongside handwriting
 
 ## 📆 Daily planning
+<<<<<<< HEAD
 Use **Open today's daily note** in the command palette or select a date in **Calendar**. For a time-blocked day, open **Day Planner**.
+=======
+Use **Open today's daily note** in the command palette or select a date in **Calendar**. For a time-blocked day, open **Day Planner**.
+>>>>>>> 0dbbdfeb10f0942ebb657c46e77fbdd5255c820d

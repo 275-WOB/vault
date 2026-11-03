@@ -21,4 +21,8 @@ status: not-started
 > Put a due date on the final checkbox, e.g. `- [ ] Submit {{title}} 📅 2026-11-20`. Also set the `due` property above for the assignment table.
 
 ## Notes and links
+<<<<<<< HEAD
 - [[]]
+=======
+- [[]]
+>>>>>>> 0dbbdfeb10f0942ebb657c46e77fbdd5255c820d

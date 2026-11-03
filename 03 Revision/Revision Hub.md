@@ -26,4 +26,8 @@ SORT file.mtime DESC
 ```
 
 ## Active recall workflow
+<<<<<<< HEAD
 After a lecture: write 3–5 questions from memory, check against the source, then turn important facts into flashcards with `#flashcards` and `Question::Answer`. Revisit difficult concepts using backlinks and the Local graph.
+=======
+After a lecture: write 3–5 questions from memory, check against the source, then turn important facts into flashcards with `#flashcards` and `Question::Answer`. Revisit difficult concepts using backlinks and the Local graph.
+>>>>>>> 0dbbdfeb10f0942ebb657c46e77fbdd5255c820d

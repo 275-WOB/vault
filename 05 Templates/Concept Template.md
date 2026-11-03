@@ -21,4 +21,8 @@ Describe this in your own words.
 
 ## Test myself
 #flashcards
+<<<<<<< HEAD
 What is the key idea behind {{title}}?::Write your answer here.
+=======
+What is the key idea behind {{title}}?::Write your answer here.
+>>>>>>> 0dbbdfeb10f0942ebb657c46e77fbdd5255c820d
